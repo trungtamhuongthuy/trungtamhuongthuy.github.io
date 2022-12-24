@@ -88,4 +88,10 @@ input:checked ~ .accordion-content {
   max-height: 100vh;
   padding: 1em;
 }
-
+footer{
+    padding: 80px 20px;
+    background: #a2a1cc;
+}
+i{
+    font-size: 50px;
+}
