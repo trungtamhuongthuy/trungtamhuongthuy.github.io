@@ -40,6 +40,7 @@ nav a:hover{
     text-align: center;
     background-color: yellow;
     font-size: large;
+    padding: 50px 20px;
 }
 #red{
     color: red;
@@ -89,8 +90,9 @@ input:checked ~ .accordion-content {
   padding: 1em;
 }
 footer{
-    padding: 80px 20px;
+    padding: 40px 20px;
     background: #a2a1cc;
+    text-align: center;
 }
 i{
     font-size: 50px;
